@@ -6,7 +6,7 @@ In order to solve this problem we need to make a request to the server using the
 
 The screenshot below demonstrates how to successfully retrieve the IP address.
 
-
+<img width="919" alt="Screen Shot 2020-11-22 at 6 16 06 PM" src="https://user-images.githubusercontent.com/74154888/99920365-fb9bd880-2cf0-11eb-894b-93d86b102159.png">
 
 ### Dig Command
 
