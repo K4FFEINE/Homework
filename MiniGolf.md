@@ -6,17 +6,16 @@
 
 <img width="854" alt="Screen Shot 2020-11-23 at 12 45 48 AM" src="https://user-images.githubusercontent.com/74154888/99932390-dbd2d780-2d25-11eb-8dcc-4b5315a03235.png">
 
+<img width="1046" alt="Screen Shot 2020-11-23 at 12 49 23 AM" src="https://user-images.githubusercontent.com/74154888/99932640-aed2f480-2d26-11eb-94b5-5c1eaaa8c11e.png">
 
 
 
 
 
 
-
-
-###Command
+### Command
 -Curl will transfer data to or from a server
-###Options
+### Options
 - The -X flag specifies a custom request method to use when communicating with the HTTP server. By default, the GET method is used unless some other method is specified.
 - Use "PUT" to update instead of GET, which is the default
 - echo the encoded flag
